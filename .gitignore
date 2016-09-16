@@ -1,4 +1,7 @@
 project/boot
+project/.boot/
+project/.ivy/
+project/.sbtboot/
 target
 .ensime
 .ensime_lucene
